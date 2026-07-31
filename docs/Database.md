@@ -1,0 +1,8 @@
+Users
+Companies
+Jobs
+Skills
+Resumes
+Assessments
+Recommendations
+Notifications
