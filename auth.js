@@ -1,0 +1,9 @@
+module.exports = {
+    ACCESS_TOKEN_EXPIRY: "15m",
+
+    REFRESH_TOKEN_EXPIRY: "7d",
+
+    PASSWORD_SALT_ROUNDS: 12,
+
+    MAX_LOGIN_ATTEMPTS: 5,
+};
